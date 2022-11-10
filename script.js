@@ -21,7 +21,7 @@ const quizData = [
         b: "2",
         c: "1",
         d: "4",
-        correct: "d",
+        correct: "b",
     },
     {
         question: "8.x = 64",
@@ -135,7 +135,7 @@ const quizData = [
     b: "110",
     c: "1 100",
     d: "10 000",
-    correct: "c",
+    correct: "a",
   },{
     question: "5.x = 30",
     a: "3",
@@ -268,7 +268,7 @@ const quizData = [
     b: "99",
     c: "89",
     d: "80",
-    correct: "c",
+    correct: "b",
   },{
     question: "6.x = 36",
     a: "12",
