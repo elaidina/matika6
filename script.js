@@ -75,7 +75,7 @@ const quizData = [
     correct: "c",
   },{
     question: "x-12 = 2",
-    a: "24",
+    a: "14",
     b: "28",
     c: "26",
     d: "18",
